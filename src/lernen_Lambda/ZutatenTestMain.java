@@ -72,9 +72,7 @@ public class ZutatenTestMain {
 		final List<String> names = Arrays.asList("Thomas", "Anja", "Heinz");
 		List<String> loggingList = new ArrayList<String>(names) {
 
-			/**
-			 * 
-			 */
+
 			private static final long serialVersionUID = 1L;
 
 			private void log(String s) {

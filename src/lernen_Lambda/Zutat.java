@@ -4,8 +4,7 @@ public class Zutat {
 
 	public String name;
 	
-	public Zutat() {
-	};
+	public Zutat() {};
 
 	public Zutat(String name) {
 		this.name = name;
